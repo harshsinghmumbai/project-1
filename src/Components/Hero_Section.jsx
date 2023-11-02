@@ -1,6 +1,8 @@
 const Hero_Section = () => {
   return (
     <main className=" mt-10 w-[90%] m-auto flex">
+
+      {/* -----------------------Info. of brand------------------- */}
       <div className="w-[594px]">
         <p className="w-full">
           <h1 className="text-[100px] text-black font-bold leading-none w-full ">
@@ -28,6 +30,8 @@ const Hero_Section = () => {
           <img className="ml-6" src="./Images/amazon.png" alt="amazon" />
         </div>
       </div>
+
+      {/* --------------------Image of Brand----------------------- */}
       <div className="mt-20">
         <img className="h-[34rem]" src="./Images/shoe_image.png" alt="" />
       </div>
