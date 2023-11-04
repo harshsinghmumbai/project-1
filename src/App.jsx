@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div>
       <Navigation />
-      <Hero_Section/>
+      <Hero_Section />
     </div>
   );
 };
