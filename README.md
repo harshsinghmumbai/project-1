@@ -1,7 +1,6 @@
 The project link is here:-https://brandpageofnike.netlify.app
 
-![Screenshot (166)](https://github.com/harshsinghmumbai/project-1/assets/145204222/ca4cf24a-9c3c-4129-93e9-26ecb32ca5cf)
-
+![Screenshot (167)](https://github.com/harshsinghmumbai/project-1/assets/145204222/b21d40df-4ada-4714-9681-0ff10f148d0f)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
